@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOrder", "ReverseOrde
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArray", "SortArray\SortArray.csproj", "{3BEF7B58-2B53-4165-836E-FDCD73640053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedMembers", "SelectedMembers\SelectedMembers.csproj", "{68DF7A6B-7F3E-4C53-9E80-217C865AB4D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3BEF7B58-2B53-4165-836E-FDCD73640053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BEF7B58-2B53-4165-836E-FDCD73640053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BEF7B58-2B53-4165-836E-FDCD73640053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DF7A6B-7F3E-4C53-9E80-217C865AB4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DF7A6B-7F3E-4C53-9E80-217C865AB4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DF7A6B-7F3E-4C53-9E80-217C865AB4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DF7A6B-7F3E-4C53-9E80-217C865AB4D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
